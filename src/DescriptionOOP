@@ -36,3 +36,15 @@ Objekt používá třídu. Například mám třídu s názvem "auto" a budeme ko
                Takže u objektů platí, že obsahují atributy a metody. Atributy si představte jako vlastnosti, které
 tento objekt má, a metody jako různé akce, které tento objekt může provádět.
 _____________________________________________________________________________________________________________________
+Contructor EN:
+A constructor is a special method that is called when an object is instantiated. And when we instantiate something,
+that's just a fancy term for creating an object.
+
+Konstruktor DE:
+Ein Konstruktor ist eine spezielle Methode, die aufgerufen wird, wenn ein Objekt instanziiert wird. Und wenn wir etwas
+instanziieren, ist das nur ein schicker Ausdruck für die Erstellung eines Objekts.
+
+Konstruktor CZ:
+Konstruktor je speciální metoda, která se volá při instanci objektu. A když něco instancujeme, je to jen módní výraz
+pro vytvoření objektu.
+_____________________________________________________________________________________________________________________

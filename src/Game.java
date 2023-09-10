@@ -1,21 +1,41 @@
 public class Game {
 
-    String make = "FromSoftware";
-    String titel;
-    {
-        titel = "Elden Ring";
+    String make;
+     String title;
+     double year;
+     String played;
+    String price;
+   boolean Platina;
+    Game(String make, String title, double year, String played, String price, boolean Platina) {
+
+
+        Game.make = make;
+        Game.title = title;
+        Game.year = year;
+        Game.played = played;
+        Game.price = price;
+        Game.Platina = Platina;
     }
 
-    int year = 2022;
-    String played = "Complete";
-    double price = 69.99;
-    boolean Platina = false;
 
     void playin() {
-        System.out.println("I'm tryin to mastering platinum trophy.");
-    }
-    void invadin() {
-        System.out.println("I love to kill them :).");
+        if (Platina=true) {
+            System.out.println("I'm tryin to mastering platinum trophy.");
+        }  else{
+            System.out.println("I'm gona DYING TY. "+title+" is not my strong side.");
+        }
     }
 
+    void invadin() {
+        if (Platina=true) {
+            System.out.println("I love to kill them :).");
+        } else {
+            System.out.println("OOOOuuuuuu ruuuuuuun, bitch ruuuuuuuuuu.");
+
+            System.out.println("I love to kill them :).");
+        }
+    }
 }
+
+
+
