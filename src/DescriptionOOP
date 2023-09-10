@@ -1,0 +1,38 @@
+Training Java student in Speed4Trade.
+
+These little examples are from Java Complete Course maked by BroCode (https://www.youtube.com/@BroCodez) on YouTube.
+And this folder is from Chapter 26.
+Complete 12h video : https://youtu.be/xk4_1vDrzzo?si=zoq9SlMyDHVPvQ6g
+Separated Chapters : https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1&si=FRMFPBg2tHy6_trs
+
+Thank You Bro ;)
+_____________________________________________________________________________________________________________________
+Object-oriented Programing EN:
+Start of the object-oriented programming portion of the series. The abbreviation people use is OOP, also pronounced as
+OOP. Now, objects, they can be intimidating, but they're really not that bad once you get to know them.
+So, look around you right now; you are surrounded by different objects. Next to me, I have a phone, a desk, a computer,
+and a coffee cup. We can use programming to imitate objects in the real world, anything you can think of, really.
+An object uses a class. For example, I have a class called "car," and we're going to be constructing some car objects.
+So with objects, they contain attributes and methods. Think of attributes as the characteristics that this object has
+and methods as the different actions that this object can perform.
+
+Objektorientierte Programmierung DE:
+Beginn des Teils über objektorientierte Programmierung in dieser Reihe. Die Abkürzung, die die Leute benutzen, ist OOP,
+auch als OOP ausgesprochen. Objekte können einschüchternd wirken, aber sie sind gar nicht so schlimm, wenn man sie
+erst einmal kennengelernt hat.
+                Schauen Sie sich jetzt um; Sie sind von verschiedenen Objekten umgeben. Neben mir habe ich ein Telefon,
+einen Schreibtisch, einen Computer und eine Kaffeetasse. Mit Hilfe der Programmierung können wir Objekte in der realen
+Welt nachahmen, eigentlich alles, was Sie sich vorstellen können. Ein Objekt verwendet eine Klasse. Ich habe zum
+Beispiel eine Klasse namens "Auto", und wir werden einige Auto-Objekte konstruieren.
+                Bei Objekten gibt es also Attribute und Methoden. Stellen Sie sich Attribute als die Merkmale vor,
+die dieses Objekt hat, und Methoden als die verschiedenen Aktionen, die dieses Objekt ausführen kann.
+
+Objectově orientovane programovani CZ:
+Začátek části seriálu o objektově orientovaném programování. Zkratka, kterou lidé používají, je OOP, vyslovuje se také
+jako OOP. Takže, objekty, mohou nahánět strach, ale ve skutečnosti nejsou tak špatné, jakmile se s nimi seznámíte.
+            Takže se právě teď rozhlédněte kolem sebe; jste obklopeni různými objekty. Vedle sebe mám telefon, stůl,
+počítač a šálek kávy. Pomocí programování můžeme napodobovat předměty v reálném světě, vlastně cokoli, co vás napadne.
+Objekt používá třídu. Například mám třídu s názvem "auto" a budeme konstruovat nějaké objekty typu auto.
+               Takže u objektů platí, že obsahují atributy a metody. Atributy si představte jako vlastnosti, které
+tento objekt má, a metody jako různé akce, které tento objekt může provádět.
+_____________________________________________________________________________________________________________________
