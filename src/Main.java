@@ -19,18 +19,18 @@ public class Main {
 
         System.out.println(myGame0.make+""+myGame0.title+""+myGame0.year+""+myGame0.Shaveit+""+myGame0.price+"" +
                             ""+myGame0.SPlatina+""+myGame0.SPC+""+myGame0.Swanna);
-        //this is first try : System.out.println(myGame1.make+" "+myGame1.title+" "+myGame1.year+" "+myGame1.haveit+" "+myGame1.price+" " +
-                //" "+myGame1.SPlatina+" "+myGame1.SPC+" "+myGame1.Swanna);
-        //System.out.println(myGame2.make+" "+myGame2.title+" "+myGame2.year+" "+myGame2.haveit+" "+myGame2.price+" " +
-                //" "+myGame2.SPlatina+" "+myGame2.SPC+" "+myGame2.Swanna);
+        System.out.println(myGame1.make+" "+myGame1.title+" "+myGame1.year+" "+myGame1.haveit+" "+myGame1.price+" " +
+                " "+myGame1.SPlatina+" "+myGame1.SPC+" "+myGame1.Swanna);
+        System.out.println(myGame2.make+" "+myGame2.title+" "+myGame2.year+" "+myGame2.haveit+" "+myGame2.price+" " +
+                " "+myGame2.SPlatina+" "+myGame2.SPC+" "+myGame2.Swanna);
         //System.out.println(myGame3.make+" "+myGame3.title+" "+myGame3.year+" "+myGame3.haveit+" "+myGame3.price+" " +
                 //" "+myGame3.SPlatina+" "+myGame3.SPC+" "+myGame3.Swanna);
         //System.out.println(myGame4.make+" "+myGame4.title+" "+myGame4.year+" "+myGame4.haveit+" "+myGame4.price+" " +
                 //" "+myGame4.SPlatina+" "+myGame4.SPC+" "+myGame4.Swanna);
 
-        myGame0.stat();
-        myGame1.stat();
-        myGame2.stat();
+        //myGame0.stat();
+        //myGame1.stat();
+        //myGame2.stat();
         myGame3.stat();
         myGame4.stat();
 
@@ -39,8 +39,9 @@ public class Main {
         myGame2.RunToBuyIt();
 
         DiceRoller diceRoller = new DiceRoller();
-        //new DiceRoller();
         TwentyRoller twentyRoller = new TwentyRoller();
+
+
 
     }
 }
