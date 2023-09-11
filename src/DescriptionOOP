@@ -48,3 +48,21 @@ Konstruktor CZ:
 Konstruktor je speciální metoda, která se volá při instanci objektu. A když něco instancujeme, je to jen módní výraz
 pro vytvoření objektu.
 _____________________________________________________________________________________________________________________
+Local & Global EN:
+Local     = declared inside a method
+            visible only to that method
+Global    = declared outside a method,
+            but with visible to all parts of class
+
+Lokal & Global DE:
+Lokal   = deklariert innerhalb einer Methode
+            nur für diese Methode sichtbar
+Global  = außerhalb einer Methode deklariert,
+            aber mit Sichtbarkeit für alle Teile der Klasse
+
+Local & Global CZ:
+Lokální     = deklarované uvnitř metody
+            viditelné pouze pro tuto metodu
+Globální    = deklarovaný mimo metodu,
+            ale viditelné pro všechny části třídy
+_____________________________________________________________________________________________________________________
