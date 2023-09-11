@@ -37,5 +37,10 @@ public class Main {
         myGame1.playin();
         myGame2.invadin();
         myGame2.RunToBuyIt();
+
+        DiceRoller diceRoller = new DiceRoller();
+        //new DiceRoller();
+        TwentyRoller twentyRoller = new TwentyRoller();
+
     }
 }
