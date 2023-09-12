@@ -60,9 +60,9 @@ public class Main {
         System.out.println("");
         System.out.println("");
 
-        Car Taycan = new Car("1.    Best Batery of all Electro cars. ","2.  Elons plan is " +
-                "selling cars like netflix, so every car can use more drivers. ","3.  In 95% you dont need " +
-                "use breaks because rekoperation is really strong. ","4.   Porsche is good Company. ");
+        Car Taycan = new Car("1.    Best Batery of all Electro cars. ", "2.  Elons plan is " +
+                "selling cars like netflix, so every car can use more drivers. ", "3.  In 95% you dont need " +
+                "use breaks because rekoperation is really strong. ", "4.   Porsche is good Company. ");
         System.out.println("Here is characteristics of Good Electric car on the World: ");
         System.out.println(Taycan.Batery);
         System.out.println(Taycan.Selfdriven);
@@ -72,8 +72,8 @@ public class Main {
         System.out.println("");
         System.out.println("");
 
-        Car Mercedes = new Car("1.   Good batery with compair of another Electro cars. ","2.  " +
-                "Mercedes is good firma. ","3.  In 95% you dont need use breaks because " +
+        Car Mercedes = new Car("1.   Good batery with compair of another Electro cars. ", "2.  " +
+                "Mercedes is good firma. ", "3.  In 95% you dont need use breaks because " +
                 "rekoperation is really strong. ");
         System.out.println("Here is characteristics of Good Electric car on the World: ");
         System.out.println(Mercedes.Batery);
@@ -83,7 +83,7 @@ public class Main {
         System.out.println("");
         System.out.println("");
 
-        Car BMW = new Car("1.    Not bad batery. ","2.      In 95% you dont need use breaks because " +
+        Car BMW = new Car("1.    Not bad batery. ", "2.      In 95% you dont need use breaks because " +
                 "rekoperation is really strong. ");
         System.out.println("Here is characteristics of Good Electric car on the World: ");
         System.out.println(BMW.Batery);
@@ -97,6 +97,22 @@ public class Main {
         System.out.println("Here is characteristics of Good Electric car on the World: ");
         System.out.println(VolksWagen.Breaks);
 
+        Mobil mobil1 = new Mobil("Apple ", " Iphone 15 Pro Max ", 48);
+        //Mobil mobil2 = new Mobil("Samsung", "S20 Ultra", 64);
+        //mobil2.copy(mobil1);
+        Mobil mobil2 = new Mobil(mobil1);
+        mobil2.copy(mobil1);
+
+        System.out.println(mobil1);
+        System.out.println(mobil2);
+        System.out.println("\n");
+        System.out.println(mobil1.getCompany());
+        System.out.println(mobil1.getModel());
+        System.out.println(mobil1.getMegapixels());
+        System.out.println("\n");
+        System.out.println(mobil2.getCompany());
+        System.out.println(mobil2.getModel());
+        System.out.println(mobil2.getMegapixels());
     }
 }
 
