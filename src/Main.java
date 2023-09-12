@@ -57,6 +57,48 @@ public class Main {
         System.out.println(TeslaX.Breaks);
         System.out.println(TeslaX.CompanyMind);
         System.out.println(TeslaX.Service);
+        System.out.println("");
+        System.out.println("");
+
+        Car Taycan = new Car("1.    Best Batery of all Electro cars. ","2.  Elons plan is " +
+                "selling cars like netflix, so every car can use more drivers. ","3.  In 95% you dont need " +
+                "use breaks because rekoperation is really strong. ","4.   Porsche is good Company. ");
+        System.out.println("Here is characteristics of Good Electric car on the World: ");
+        System.out.println(Taycan.Batery);
+        System.out.println(Taycan.Selfdriven);
+        System.out.println(Taycan.Breaks);
+        System.out.println(Taycan.CompanyMind);
+
+        System.out.println("");
+        System.out.println("");
+
+        Car Mercedes = new Car("1.   Good batery with compair of another Electro cars. ","2.  " +
+                "Mercedes is good firma. ","3.  In 95% you dont need use breaks because " +
+                "rekoperation is really strong. ");
+        System.out.println("Here is characteristics of Good Electric car on the World: ");
+        System.out.println(Mercedes.Batery);
+        System.out.println(Mercedes.CompanyMind);
+        System.out.println(Mercedes.Breaks);
+
+        System.out.println("");
+        System.out.println("");
+
+        Car BMW = new Car("1.    Not bad batery. ","2.      In 95% you dont need use breaks because " +
+                "rekoperation is really strong. ");
+        System.out.println("Here is characteristics of Good Electric car on the World: ");
+        System.out.println(BMW.Batery);
+        System.out.println(BMW.Breaks);
+
+        System.out.println("");
+        System.out.println("");
+
+        Car VolksWagen = new Car("1.    In 95% you dont need use breaks because " +
+                "rekoperation is really strong. ");
+        System.out.println("Here is characteristics of Good Electric car on the World: ");
+        System.out.println(VolksWagen.Breaks);
+
     }
 }
+
+
 
