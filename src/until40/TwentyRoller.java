@@ -1,3 +1,5 @@
+package until40;
+
 import java.util.Random;
 
 public class TwentyRoller {

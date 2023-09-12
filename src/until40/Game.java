@@ -1,3 +1,5 @@
+package until40;
+
 public class Game {
 
     String make;
